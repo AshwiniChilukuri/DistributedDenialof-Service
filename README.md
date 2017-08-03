@@ -7,7 +7,7 @@ i. list
 - will list all the slaves connected to the master in the format SlaveHostName IPAddress SourcePortNumber RegistrationDate
 
 ii. Connect IPAddress/HostnameofSlave/all TargetHostName/TargetIPAddress TargetPortnumber Number ofConnections
--Establishes number of connections to the target host
+- Establishes number of connections to the target host
 
 iii. Disconnect IPAddress/HostnameofSlave/all TargetHostName/TargetIPAddress TargetPortnumber
 - Closes all the connections to the given Target
