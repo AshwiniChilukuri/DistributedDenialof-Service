@@ -1,6 +1,8 @@
 # DistributedDenialof-Service
 There are two programs one that runs on MasterBot and the other that runs on various Slave Bots.
-Master Bot issues various commands to Slave Bots. Commands include
+Master Bot issues various commands to Slave Bots. 
+Commands include
+
 i. list
 - will list all the slaves connected to the master in the format SlaveHostName IPAddress SourcePortNumber RegistrationDate
 ii. Connect IPAddress/HostnameofSlave/all TargetHostName/TargetIPAddress TargetPortnumber Number ofConnections
